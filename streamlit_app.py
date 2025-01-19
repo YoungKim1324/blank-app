@@ -10,3 +10,4 @@ user_input = st.text_input("메시지를 입력하세요:")
 # 입력된 메시지 출력하기
 if user_input:
     st.write(f"입력하신 메시지: {user_input}")
+ 
